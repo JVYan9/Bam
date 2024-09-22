@@ -18,8 +18,8 @@ Render layer的collection要分層：
 
 ![[Github main/Evernote/螞蟻打光 Urrr/_resources/螞蟻打光_Urrr.resources/image.11.png]]
 
-要設定兩個都Brute Force，不然會出問題
-「算圖出錯，有經驗的都知道是這個問題。」Said by 阿涼姐
+###### 要設定兩個都Brute Force，不然會出問題
+###### 「算圖出錯，有經驗的都知道是這個問題。」Said by 阿涼姐
 ![[Github main/Evernote/螞蟻打光 Urrr/_resources/螞蟻打光_Urrr.resources/image.5.png]]
 
 ### ==Matte==
