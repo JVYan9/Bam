@@ -1,3 +1,0 @@
-# Bam
-
-Testing
