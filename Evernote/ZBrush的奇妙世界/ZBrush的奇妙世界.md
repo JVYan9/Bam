@@ -6,7 +6,7 @@
 
 **Ctrl+Shift** + ==Lasso==，點線，循環線會消失，選取完消失的範圍後，按右側選單 "Polygroup" 中的==Autogroup==，就會自動分好Group。
 
-### 用Group畫Mask
+### [[用Group畫Mask]]
 
 * 一樣先用**Ctrl+Shift** \+ ==Rect== 選取一塊Group，範例為紫色那塊。
 
