@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "407f4253686ef33f",
+            "id": "cc06b949957ff997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github main/新筆記/筆記.md",
+                "file": "Github main/新筆記/Houdini/Z depth.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce13cedc4fab9ec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github main/新筆記/Houdini/Z depth.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github main/新筆記/筆記.md",
+                "file": "Github main/新筆記/Houdini/Z depth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github main/新筆記/筆記.md",
+                "file": "Github main/新筆記/Houdini/Z depth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github main/新筆記/筆記.md"
+                "file": "Github main/新筆記/Houdini/Z depth.md"
               }
             }
           },
@@ -146,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,41 +179,47 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0536e8a4dbf25a2c",
+  "active": "ce13cedc4fab9ec4",
   "lastOpenFiles": [
-    "Github main/新筆記/測試.md",
+    "Github main/Evernote/胡迪尼的奇妙世界/胡迪尼的奇妙世界.md",
+    "Github main/新筆記/Houdini/Z depth.md",
+    "Github main/新筆記/Houdini/測試.md",
+    "Github main/新筆記/Houdini/基本.md",
+    "Github main/新筆記/Houdini/投影材質.md",
+    "Github main/Evernote/公司帳密/公司帳密.md",
+    "Github main/新筆記/Houdini/_resources/wip2.exr",
+    "Github main/新筆記/Houdini/_resources/Pasted image 20240922195009.png",
+    "Github main/新筆記/Houdini/_resources/Pasted image 20240922195002.png",
+    "Github main/新筆記/Houdini/_resources/Pasted image 20240922194955.png",
+    "Github main/新筆記/Houdini/_resources/Pasted image 20240922194947.png",
+    "Github main/新筆記/Houdini/_resources/Pasted image 20240922193804.png",
+    "Github main/新筆記/Houdini/_resources",
+    "Github main/新筆記/_resources/Pasted image 20240922191357.png",
+    "Github main/新筆記/Houdini",
+    "Github main/Evernote/ZBrush的奇妙世界/ZBrush的奇妙世界.md",
+    "Github main/新筆記/測試.canvas",
+    "Github main/新筆記/2024-09-22.md",
+    "未命名.md",
     "Github main/新筆記/筆記.md",
     "Github main/新筆記/_resources/Pasted image 20240922190918.png",
+    "Github main/新筆記/測試.md",
     "Github main/新筆記/_resources",
     "Github main/新筆記/Pasted image 20240922190840.png",
-    "Github main/新筆記/未命名.md",
     "Pasted image 20240922190613.png",
     "Pasted image 20240922190429.png",
-    "Github main/Evernote/公司帳密/_resources/公司帳密.resources/image.png",
-    "Github main/Pasted image 20240922185302.png",
-    "Github main/Pasted image 20240922185312.png",
-    "Github main/Evernote/ZBrush的奇妙世界/ZBrush的奇妙世界.md",
     "用Group畫Mask.md",
     "Github main/Evernote/你當我塑膠做的材質/你當我塑膠做的材質.md",
     "Github main/新筆記/Untitled.canvas",
     "Github main/新筆記",
     "Github main/README.md",
-    "Github main/Evernote/胡迪尼的奇妙世界/胡迪尼的奇妙世界.md",
-    "Github main/Evernote/ZBrush的奇妙世界/_resources/ZBrush的奇妙世界.resources/image.png",
-    "Github main/Evernote/ZBrush的奇妙世界/_resources/ZBrush的奇妙世界.resources/image.1.png",
     "Github main/Evernote/ZBrush的奇妙世界/_resources/ZBrush的奇妙世界.resources",
     "Github main/Evernote/ZBrush的奇妙世界/_resources",
     "Github main/Evernote/ZBrush的奇妙世界",
-    "Github main/Evernote/你當我塑膠做的材質/_resources/你當我塑膠做的材質.resources/image.png",
     "Github main/Evernote/你當我塑膠做的材質/_resources/你當我塑膠做的材質.resources",
     "Github main/Evernote/你當我塑膠做的材質/_resources",
-    "Github main/Evernote/你當我塑膠做的材質",
-    "Github main/Evernote/調整點編號/_resources/調整點編號.resources",
     "Github main/Evernote/調整點編號/調整點編號.md",
-    "Github main/Evernote/調整點編號/_resources",
     "Github main/Evernote/螞蟻打光 Urrr/螞蟻打光 Urrr.md",
     "Github main/Evernote/筆記/筆記.md",
-    "Github main/Evernote/公司帳密/公司帳密.md",
     "Github main/Evernote/筆記/筆記2.md",
     "Github main/Evernote/Precomp/Precomp.md",
     "Github main/Untitled/Untitled.md",
