@@ -1,3 +1,8 @@
+---
+tags:
+  - Outsource
+---
+
 ![[KREN Object tracking Transformation  Matchmove Special Technique_1080pFHR.mp4]]
 
 - [[Media Note - KREN Object tracking Transformation  Matchmove Special Technique_1080pFHR]]
