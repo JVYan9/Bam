@@ -13,6 +13,12 @@ link: https://youtu.be/iK_ewP8-QsI?si=UsvnbMoXVYe7FMwG
 
 
 - ## [3DEqualizer4 [basic] - Introductory Project [Part 2/2] (youtube.com)](https://www.youtube.com/watch?v=pyqcVhwYZwE)
-	![[Pasted image 20241003164615.png]]
-	![[Pasted image 20241003164906.png]]
+	- #### 鏡頭追蹤實作 
+		![[Pasted image 20241003164615.png]]
+		
+		- ##### 追蹤點模式選擇：
+			![[Pasted image 20241003164906.png]]
+		
+		- ##### 追蹤點搜尋範圍建議：
+			![[Pasted image 20241003165224.png]]
 	
