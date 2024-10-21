@@ -1,3 +1,9 @@
+---
+tags:
+  - Learn
+  - Outsource
+---
+
 - ##### 官方教學：[Working with displacement and Compare Mask | Adobe Substance 3D (youtube.com)](https://www.youtube.com/watch?v=n2blPCIJVKo)
 
 - ##### 原理
