@@ -2,3 +2,4 @@
 ### ==缺皮膚材質==
 ![[Pasted image 20241023145434.png]]
 ![[Pasted image 20241023145520.png]]
+![[Pasted image 20241023150203.png]]
