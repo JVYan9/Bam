@@ -10,4 +10,4 @@ Z:\KongFu-V2\06_Outsourcing\SHC\In\241021\1021_BG\1021_BG
 #### 2024-10-29 15:30 ==WIP==
 ![[Pasted image 20241029160430.png]]
 ##### 刪面比較快速的方法：
-###### [[Maya Selection Constraint]]
+ [[Maya Selection Constraint]]
