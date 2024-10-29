@@ -14,3 +14,6 @@ Z:\KongFu-V2\06_Outsourcing\SHC\In\241021\1021_BG\1021_BG
 ![[Pasted image 20241029160430.png]]
 
 ![[Z001C0090_240305_2183.jpg]]
+
+#### 2024-10-29 Texture ==OK==
+![[Pasted image 20241029230554.png]]![[Pasted image 20241029231301.png]]
