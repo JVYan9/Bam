@@ -18,5 +18,6 @@ Z:\KongFu-V2\06_Outsourcing\SHC\In\241021\1021_BG\1021_BG
 #### 2024-10-29 Texture ==OK==
 ![[Pasted image 20241029230554.png]]![[Pasted image 20241029231301.png]]
 
-#### 2024-10-30
+#### 2024-10-30 Texture ==OK==
+在Maya算的
 ![[Pasted image 20241030132834.png]]
