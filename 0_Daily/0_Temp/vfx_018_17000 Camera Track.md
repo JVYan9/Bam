@@ -7,3 +7,6 @@ Z:\KongFu-V2\03_Ref\06_Acopy\分場\內部分段\R1_018_爆破書牆.mov
 #### 前後格參考：
 ![[Pasted image 20241030145305.png]]![[Pasted image 20241030145401.png]]
 
+#### 2024-11-01 ==WIP==
+![[vfx_018_17000_Track_wip_v002.mov]]
+
