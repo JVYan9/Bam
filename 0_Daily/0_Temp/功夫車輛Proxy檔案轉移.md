@@ -42,3 +42,7 @@ Z:\Sars\02_3D\01_MA\Scenes\02_Asset\Props_City\Props_Lights
 
 ###### Props_Streetlight_b_sgl_d：
 ![[Pasted image 20241112160627.png]]
+
+###### Props_Steetlight_c：
+![[Pasted image 20241112160754.png]]
+
