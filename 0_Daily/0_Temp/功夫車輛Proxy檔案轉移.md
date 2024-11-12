@@ -13,4 +13,7 @@ Z:\Sars\02_3D\01_MA\Scenes\02_Asset\Proxy
 
 ##### 路燈MA檔：
 Z:\Sars\02_3D\01_MA\Scenes\02_Asset\Props_City\Props_Lights
-貼圖：
+貼圖：Z:\Sars\02_3D\01_MA\sourceimages\Props_City\Props_Lights
+
+###### Props_Streetlight_a_dbl：
+![[Pasted image 20241112152328.png]]
