@@ -5,5 +5,6 @@ Z:\KongFu\02_3D\01_MA\Scenes\02_Asset\Props\Props_car
 
 ##### Proxy檔：
 ==**全部都是Proxy**==
-Z:\Sars\02_3D\01_MA\Scenes\02_Asset\Proxy\Props_Motorbike\Nightlight
+Z:\Sars\02_3D\01_MA\Scenes\02_Asset\Proxy
 ![[Pasted image 20241112144108.png]]
+![[Pasted image 20241112144845.png]]
