@@ -9,5 +9,5 @@
 ![[Pasted image 20241113201828.png]]
 
 ### Props_car
-#### Props_car_a_v6_green_light
-![[Pasted image 20241113202150.png]]
+![[Pasted image 20241113203511.png]]
+
