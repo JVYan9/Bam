@@ -18,4 +18,7 @@ Z:\KongFu-V2\01_Asset\06_Proxy\02_Props\Vehicle
 Z:\KongFu-V2\01_Asset\06_Proxy\02_Props\Vehicle\Props_Bus_Nightlight
 ![[Pasted image 20241113160642.png]]
 
-##### Props_
+##### Props_Cars
+###### 有問題的：
+1. Props_Car_d_V6_red_Light.rs
+2. 
