@@ -23,3 +23,7 @@ Z:\KongFu-V2\01_Asset\06_Proxy\02_Props\Vehicle\Props_Bus_Nightlight
 1. Props_Car_d_V6_red_Light.rs
 
 ![[Pasted image 20241113163012.png]]
+
+###### 修正後：
+![[Pasted image 20241113163619.png]]
+
