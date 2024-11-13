@@ -11,5 +11,11 @@ Z:\Sars\02_3D\01_MA\Scenes\02_Asset\Proxy
 ![[Pasted image 20241112144108.png]]
 ![[Pasted image 20241112144845.png]]![[Pasted image 20241112150254.png]]
 
-##### 好麻煩啊：
+#### 好麻煩啊：
 Z:\KongFu-V2\01_Asset\06_Proxy\02_Props\Vehicle
+
+##### Props_Bus
+Z:\KongFu-V2\01_Asset\06_Proxy\02_Props\Vehicle\Props_Bus_Nightlight
+![[Pasted image 20241113160642.png]]
+
+##### Props_
