@@ -2,7 +2,7 @@
 
 **Z:\KongFu\03_Ref\06_Video\空拍素材\20240305 功夫_素材 8k (Inspire 3 )**
 
-**Z:\KongFu\03_Ref\06_Video\空拍素材\20231209_空拍\影像\7_飛向港口**
+Z:\KongFu\03_Ref\06_Video\空拍素材\20231209_空拍\影像\7_飛向港口
 
 ![[Pasted image 20241114164450.png]]
 
