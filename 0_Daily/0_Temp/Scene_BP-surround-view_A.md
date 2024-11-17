@@ -4,7 +4,7 @@ Z:\KongFu\02_3D\01_MA\Scenes\02_Asset\BG_Building\BG_Buddha_Plaza_All\BG_Buddha_
 #### Source:
 Z:\KongFu-V2\06_Outsourcing\SHC\In\241021\1021_BG\1021_BG
 
-##### 刪面比較快速的方法：
+#### 刪面比較快速的方法：
  [[Maya Selection Constraint]]
 
 #### 2024-10-28 ==WIP==
