@@ -1,5 +1,5 @@
 路燈abc  
-P:\KongFu\Fx\lookdev\Ping\abc\Props_RoadObjects_Fix
+P:\KongFu\Fx\lookdev\Ping\abc\Props_RoadObjects_Fix.abc
 
 HDR路徑
 Z:/KongFu-V2/03_Ref/02_HDR/Template/Light/Night/New/dikhololo_night_2k.exr
