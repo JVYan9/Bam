@@ -16,4 +16,4 @@ Z:\KongFu-V2\02_Shot\R03\vfx_071_12000\03_Render
 | ![[Pasted image 20241119184745.jpg]] | ![[Pasted image 20241119184751.jpg]] |
 
 道路：
-材質 BaseColor、Normal
+材質放BaseColor、Normal圖，Roughness拉1
