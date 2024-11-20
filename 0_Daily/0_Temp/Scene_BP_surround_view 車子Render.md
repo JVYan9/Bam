@@ -1,5 +1,6 @@
 路燈abc  
 P:\KongFu\Fx\lookdev\Ping\abc\Props_RoadObjects_Fix.abc
+==**Houdini出的模型放到Maya要放大100倍**==
 
 HDR路徑
 Z:/KongFu-V2/03_Ref/02_HDR/Template/Light/Night/New/dikhololo_night_2k.exr
