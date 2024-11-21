@@ -27,3 +27,6 @@ Z:\KongFu-V2\02_Shot\R03\vfx_071_12000\03_Render
 ![[Pasted image 20241120174619.png]]
 
 ![[Pasted image 20241120191255.png]]
+
+##### 2024-11-20 
+![[Scene_BP_surround_view_Car_v003.png]]
