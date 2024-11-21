@@ -31,4 +31,9 @@ Z:\KongFu-V2\02_Shot\R03\vfx_071_12000\03_Render\01_3dRender\_Publish\Mid_071_12
 ![[Pasted image 20241120191255.png]]
 
 ##### 2024-11-20 
+**==汽車、道路光感 確定==**
 ![[Scene_BP_surround_view_Car_v003.png]]
+##### Z-Depth 設定：
+![[Pasted image 20241121142053.jpg]]
+
+
