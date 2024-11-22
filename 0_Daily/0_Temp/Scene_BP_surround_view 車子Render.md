@@ -36,4 +36,6 @@ Z:\KongFu-V2\02_Shot\R03\vfx_071_12000\03_Render\01_3dRender\_Publish\Mid_071_12
 ##### Z-Depth 設定：
 ![[Pasted image 20241121142053.jpg]]
 
+##### 2024-11-21 Precomp
+![[vfx_071_12000_Car_light_Precomp_v001.00010.png]]
 
