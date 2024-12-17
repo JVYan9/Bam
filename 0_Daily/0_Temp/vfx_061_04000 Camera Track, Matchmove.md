@@ -9,3 +9,6 @@
 ![[vfx_061_04000_Matchmove_v003.mov]]
 
 ![[Pasted image 20241217143214.png]]
+
+#### 20241217 ==Precomp==
+![[vfx_061_04000_Precomp_v01.00003.png]]
