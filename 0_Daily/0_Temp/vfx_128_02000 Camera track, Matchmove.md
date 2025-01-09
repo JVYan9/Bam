@@ -6,3 +6,8 @@
 ### 對位需求：
 碰撞點、肢體，以不超出實拍範圍為主。
 
+### 2025-01-09 ==Done==
+![[vfx_128_02000_Track_v003_sphere.mov]]
+![[vfx_128_02000_Matchmove_v002.mov]]
+![[vfx_128_02000_Matchmove_v002_persp.mov]]
+
