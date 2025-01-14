@@ -53,8 +53,9 @@
 
 #### 🌟各欄位特性說明🌟：
 
-| ![[Pasted image 20250114192829.png]] |     |
-| ------------------------------------ | --- |
-<span style="color:rgb(255, 0, 0)">Candidate</span> 欄位:obj node 右邊點藍色的 就會算出來  
-<span style="color:rgb(0, 176, 240)">Force</span> 欄位: 可以從右邊加入 加入之後藍燈沒亮也算得出來  
-<span style="color:rgb(255, 221, 0)">Phantom</span>欄位:加入之後算不出來 就像maya裡 關掉visible的效果
+| ![[Pasted image 20250114192829.png]] |
+| ------------------------------------ |
+1. <span style="color:rgb(255, 0, 0)">Candidate</span> 欄位：obj node 右邊點藍色的 就會算出來 *（上圖右上角所示）*
+2. <span style="color:rgb(0, 176, 240)">Force</span> 欄位：可以從右邊加入 加入之後藍燈沒亮也算得出來  
+3. <span style="color:rgb(255, 221, 0)">Phantom</span> 欄位：加入之後算不出來 就像maya裡 關掉visible的效果
+4. <span style="color:rgb(208, 134, 228)">粉紫色的框框</span>  是搭配要一起用的
