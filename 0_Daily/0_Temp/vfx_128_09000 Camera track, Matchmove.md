@@ -4,4 +4,7 @@
 | ![[Pasted image 20250114112521.png]]                                                                                                                                 |
 | Z:\KongFu-V2\03_Ref\05_Video\現場gopro\20240124_GoPro_催眠村\1\128A-27\GX011375.MP4<br><br>Z:\KongFu-V2\03_Ref\05_Video\現場gopro\20240124_GoPro_催眠村\2\128A-27\GX011211.MP4 |
 | Z:\KongFu-V2\04_Source\03_Proxy\R05\vfx_128_09000\v002_undistortion                                                                                                  |
-#### 2024-01-14 
+#### 2024-01-14 ==Done==
+![[vfx_128_09000_Matchmove_v003.mov]]
+
+![[vfx_128_09000_Matchmove_v003_persp.mov]]
