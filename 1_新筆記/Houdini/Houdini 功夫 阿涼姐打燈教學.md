@@ -55,4 +55,6 @@
 
 | ![[Pasted image 20250114192829.png]] |     |
 | ------------------------------------ | --- |
-|                                      |     |
+<span style="color:rgb(255, 0, 0)">Candidate</span> 欄位:obj node 右邊點藍色的 就會算出來  
+<span style="color:rgb(0, 176, 240)">Force</span> 欄位: 可以從右邊加入 加入之後藍燈沒亮也算得出來  
+<span style="color:rgb(255, 221, 0)">Phantom</span>欄位:加入之後算不出來 就像maya裡 關掉visible的效果
