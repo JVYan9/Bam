@@ -1,8 +1,8 @@
 ## 一、基本介面操作
 ### 1. 切換鏡頭
-![[Pasted image 20250106135224.png]]
+![[Pasted image 20250114165745.png]]
 ### 2. 切換介面
-![[Pasted image 20250106135316.png]]
+![[Pasted image 20250114165755.png]]
 1. shop 是放材質的地方
 2. obj 物件 包含特效 燈光
 3. out 是拆層的地方
