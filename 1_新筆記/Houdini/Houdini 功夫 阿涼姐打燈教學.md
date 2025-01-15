@@ -60,7 +60,7 @@
 3. <span style="color:rgb(255, 221, 0)">Phantom</span> 欄位：加入之後算不出來 就像maya裡 關掉visible的效果
 4. <span style="color:rgb(208, 134, 228)">粉紫色的框框</span>  是搭配要一起用的
 
-##### 範例（一） Matte：
-
+##### 範例（一） 設定Matte的方法：
+**Forced Matte** 和 **Matte Parms From** 這兩個欄位常常拿來設定算影子。
 ![[Liang-01.png]]
 
