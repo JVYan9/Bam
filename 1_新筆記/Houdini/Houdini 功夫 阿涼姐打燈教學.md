@@ -64,3 +64,4 @@
 **Forced Matte** 和 **Matte Parms From** 這兩個欄位常常拿來設定算影子。
 ![[Liang-01.png]]
 
+##### 範例（二） 算影子的方法：
