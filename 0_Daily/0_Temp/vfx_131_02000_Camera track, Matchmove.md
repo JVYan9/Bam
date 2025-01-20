@@ -4,3 +4,6 @@
 | ![[Pasted image 20250115185631.png]]                                |     |
 |                                                                     |     |
 | Z:\KongFu-V2\04_Source\03_Proxy\R05\vfx_131_02000\v002_undistortion |     |
+#### 對位需求：
+**點滴架、手臂白色紗布處**要準
+身體背部 以不超出實拍為主
