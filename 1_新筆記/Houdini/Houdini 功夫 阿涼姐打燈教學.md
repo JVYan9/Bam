@@ -69,4 +69,10 @@
 ![[Pasted image 20250115182449.png]]
 
 ## 四、AOV
+*Out* 裡面有幾個AOV Node 裡面已經設定好要算的AOV。
+主要分兩個分類 ：
+1. **Redshift_AOVs_Color_Geo**
+2. **Redshift_AOV_UT**
+如下圖⬇️
+![[Pasted image 20250122185358.png]]
 
