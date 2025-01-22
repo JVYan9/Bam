@@ -76,3 +76,10 @@
 如下圖⬇️
 ![[Pasted image 20250122185358.png]]
 
+#### 分類的邏輯是：
+跟燈光 顏色有關的：**Redshift_AOVs_Color_Geo**
+跟空間資訊有關的 ：**Redshift_AOV_UT**
+
+| **Redshift_AOVs_Color_Geo**          | **Redshift_AOV_UT**                  |
+| ------------------------------------ | ------------------------------------ |
+| ![[Pasted image 20250122185652.png]] | ![[Pasted image 20250122185704.png]] |
