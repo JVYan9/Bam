@@ -68,3 +68,5 @@
 這個例子是 算名稱有_RBD_物件 在 Render_Wall Render_Matte_Building上的影子
 ![[Pasted image 20250115182449.png]]
 
+## 四、AOV
+
