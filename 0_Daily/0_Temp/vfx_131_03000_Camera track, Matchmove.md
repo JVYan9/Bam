@@ -7,3 +7,10 @@
 #### 對位需求：
 點滴瓶要準，Maybe可用Geometry track
 身體背部 以不超出實拍為主
+
+#### 2025-01-22 ==Done==
+![[vfx_131_03000_Matchmove_v004.mov]]
+
+![[vfx_131_03000_Matchmove_v004_persp.mov]]
+
+![[vfx_131_03000_Matchmove_v004_sphere.mov]]
