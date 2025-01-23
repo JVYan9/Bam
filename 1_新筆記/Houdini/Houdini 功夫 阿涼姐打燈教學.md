@@ -130,8 +130,17 @@ Ex: vfx_130_02000_v001.00000.png  格數5位數
 `` Z:\KongFu-V2/02_Shot/R01/vfx_018_09000/03_Render/01_3dRender/v01/$OS/$OS.$F4.exr ``
 
 
-# 七、下算Deadline
+# 七、下算
 
+## Deadline下算：
 1. 把要下算的out node 一次框選起來
 	![[Pasted image 20250123130124.png]]
-2. 
+
+
+2. 按Render -> Submit to Deadline 
+   就會跳出視窗  按照圖示設定 按下 submit 就完成了
+	![[Pasted image 20250123130256.png]]
+	![[Pasted image 20250123130306.png]]
+
+
+## 單機下算：
