@@ -106,7 +106,8 @@ Deep可以保存像素的顏色，包括每個像素的深度資訊，允許更�
 ![[Pasted image 20250123121752.png]]
 
 
-## 五、圖片路徑 寫法 
+## 五、序列圖檔路徑 寫法 
+
 Dome light下面都會掛上Back-plate，因為通常都是連續圖檔 對應到Houdini慣用格數1000開始  
 要加上`` `padzero(5,$F-1000)` ``這串文字
 `` `padzero(5,$F-1000)` `` 中間的5 代表原本命名的位數  
@@ -129,4 +130,8 @@ Ex: vfx_130_02000_v001.00000.png  格數5位數
 `` Z:\KongFu-V2/02_Shot/R01/vfx_018_09000/03_Render/01_3dRender/v01/$OS/$OS.$F4.exr ``
 
 
-下算Dea
+# 七、下算Deadline
+
+1. 把要下算的out node 一次框選起來
+	![[Pasted image 20250123130124.png]]
+2. 
