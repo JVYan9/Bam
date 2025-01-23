@@ -121,4 +121,12 @@ Ex: vfx_130_02000_v001.00000.png  格數5位數
 | ![[Pasted image 20250123124432.png]]               |
 
 # 六、下算目標路徑 寫法
+
 ![[Pasted image 20250123125519.png]]
+
+<span style="color:rgb(0, 176, 80)">$OS</span> 就是Render node的名稱。
+###### 完整寫法：
+`` Z:\KongFu-V2/02_Shot/R01/vfx_018_09000/03_Render/01_3dRender/v01/$OS/$OS.$F4.exr ``
+
+
+下算Dea
