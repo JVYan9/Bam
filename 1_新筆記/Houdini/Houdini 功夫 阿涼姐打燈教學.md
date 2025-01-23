@@ -71,14 +71,10 @@
 ## 四、AOV
 *Out* 裡面有幾個AOV Node 裡面已經設定好要算的AOV。
 主要分兩個分類 ：
-1. **Redshift_AOVs_Color_Geo**
-2. **Redshift_AOV_UT**
+1. 跟燈光 顏色有關的：**Redshift_AOVs_Color_Geo**
+2. 跟空間資訊有關的 ：**Redshift_AOV_UT**
 如下圖⬇️
 ![[Pasted image 20250122185358.png]]
-
-#### 分類的邏輯是：
-跟燈光 顏色有關的：**Redshift_AOVs_Color_Geo**
-跟空間資訊有關的 ：**Redshift_AOV_UT**
 
 | **Redshift_AOVs_Color_Geo**          | **Redshift_AOV_UT**                  |
 | ------------------------------------ | ------------------------------------ |
