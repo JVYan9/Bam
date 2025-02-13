@@ -2,7 +2,7 @@
 這次女記者裡 3 顆 有關CG會被挑出當作為重點特效  , 想要請你這邊支援出CG展示的部分  
 譬如 這次最主要是 R HOTEL  & 菸灰缸 & 碎裂玻璃以下為 <女記者>  SHOWREEL 初剪&REEL清單  , 請查閱   
 REELS製作 [https://paper.dropbox.com/doc/--Cf4e79adEIwE8_1LaNIuFHn7Ag-zkqUDt6JnxWBlqzHiVMmq](https://paper.dropbox.com/doc/--Cf4e79adEIwE8_1LaNIuFHn7Ag-zkqUDt6JnxWBlqzHiVMmq)
-**影片尺寸** : **2048 x 1152**  
+**影片尺寸** : ==**2048 x 1152**==  
 **總長 : 初剪 1m 30s    總長會依照製作長度調整為 1 M 左右**  
 **初剪片段 :** [https://replay.dropbox.com/share/mkk3VvlzADGQ5Xlz](https://replay.dropbox.com/share/mkk3VvlzADGQ5Xlz)  (檔案可下載)  
 Z:\Female_Journalist\08_Showreel\2D\_PR\死了一個娛樂女記者之後_breakdown_初剪V1  
