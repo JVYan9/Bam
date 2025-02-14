@@ -14,4 +14,4 @@ Z:\Female_Journalist\08_Showreel\特效表&調光檔需求\250210_《Female_Jour
 Z:\Female_Journalist\08_Showreel\foootage看能不能再下禮拜 2 /18   ( 二 ) 前可以出製作過程以利於後面更新製作  
 有問題再麻煩通知我這邊,可以來討論一下製作內容, 感謝支援 
 
-![[Pasted image 20250214160312.png]]
+![[Pasted image 20250214160900.png]]
