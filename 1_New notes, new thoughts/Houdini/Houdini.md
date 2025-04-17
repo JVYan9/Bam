@@ -1,3 +1,6 @@
+#### Template（250207更新）：
+Z:\Temp\Young\Lighting_houdini_Template_v03.hiplc
+
 ## 一、基本介面操作
 ### 1. 切換鏡頭
 ![[Pasted image 20250114165745.png]]
