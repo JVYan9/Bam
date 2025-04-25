@@ -21,3 +21,10 @@ Z:\KongFu-V2\05_Final\01_DailyCheck\to 導演\20250122\CG\vfx_134_00100-85000_�
 
 
 #### 畫樹：
+![[Pasted image 20250425122319.png]]
+1. 點選畫右 "Attribpaint" 節點
+2. 滑鼠移到Vireport
+3. Enter
+
+複製出的節點，可以先Reset，重畫範圍
+![[Pasted image 20250425122447.png]]
