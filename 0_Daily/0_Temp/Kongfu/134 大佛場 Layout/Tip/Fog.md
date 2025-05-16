@@ -2,10 +2,12 @@
 近景霧：
 - Z:\KongFu-V2\02_Shot\R05\vfx_134_68000\01_3D\FX\02_Publish\Fx_Fog\vfx_134_68000_Fx_NearFog_Eric_v008_pub.hiplc
 - Z:\KongFu-V2\02_Shot\R05\vfx_134_38000\01_3D\FX\02_Publish\Fx_Fog\vfx_134_38000_Fx_NearFog_Eric_v012_pub.hiplc
+
 其他霧：
 - Z:\KongFu-V2\02_Shot\R05\vfx_134_38000\01_3D\Lighting\01_Wip\kuanwei\vfx_134_38000_lit_v180.hiplc
 - Z:\KongFu-V2\02_Shot\R05\vfx_134_68000\01_3D\Lighting\01_Wip\kuanwei\vfx_134_68000_lit_kuanwei_v54_render.hiplc
 
+#### 注意事項：
 1. Bundle要重設
 2. 場景都設扣Matte
 
