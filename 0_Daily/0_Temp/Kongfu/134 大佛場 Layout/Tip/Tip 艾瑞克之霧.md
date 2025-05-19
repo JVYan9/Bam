@@ -1,3 +1,3 @@
 ![[Pasted image 20250519154351.png]]
 
-Cache路徑掉了，要自己重新Cache
+![[Pasted image 20250519155032.png]]
